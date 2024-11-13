@@ -1,15 +1,8 @@
-#  Java Spring Boot Dependency Injection
 
-### Proje Kurulumu
 
-Projeyi öncelikle forklayın ve clone edin.
-Daha sonra projeyi IntellijIDEA kullanarak açınız. README.md dosyasını dikkatli bir şekilde okuyarak istenenleri yapmaya çalışın.
-Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
-Örnek bir Lokasyon: Workintech/Sprint_1/Etud.
+## Hedeflerimiz:
 
-### Hedeflerimiz:
-
-### Spring Boot Dependency Injection
+## Spring Boot Dependency Injection
 
  ### Görev 1
  * Maven dependency management sistemini kullanarak tüm dependencyleri install edin.
